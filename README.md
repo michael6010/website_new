@@ -1,1 +1,1 @@
-# website_new
+This file is created as an example. No other info is provided. 
